@@ -1,3 +1,4 @@
 software engineering @ amazon
+building @ visioner
 
-rn in seattle, wa
+📍 seattle, wa
